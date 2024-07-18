@@ -1,0 +1,46 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "index&Sequence_5",
+        "notificationText&Sequence_29",
+        "last_row&Sequence_5",
+        "dtable&Sequence_30",
+        "currentContent&Sequence_26",
+        "newContentToAdd&Sequence_26",
+        "newContent&Sequence_26",
+        "Files_Name&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "D:/Workspace/RPA/ELSA/source/Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Files_Name&Sequence_5",
+        "last_row&Sequence_5",
+        "index&Sequence_5",
+        "dtable&Sequence_30",
+        "currentContent&Sequence_26",
+        "newContentToAdd&Sequence_26",
+        "newContent&Sequence_26",
+        "notificationText&Sequence_29"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

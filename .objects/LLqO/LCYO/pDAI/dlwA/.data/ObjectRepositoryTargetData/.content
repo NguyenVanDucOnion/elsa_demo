@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4faS1wC4AUmMttlwpZHNbw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="403, 692, 320, 165" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;wnd ctrlname='OmsWoMgt' /&gt;&lt;wnd ctrlname='Panel1' /&gt;&lt;wnd ctrlname='tcMain' /&gt;&lt;wnd ctrlname='tpHeader' /&gt;&lt;wnd ctrlname='PanelControl3' /&gt;&lt;wnd ctrlname='sccHeaderMain' /&gt;&lt;wnd ctrlname='GroupControl1' /&gt;&lt;wnd ctrlname='tabContainer' /&gt;&lt;wnd ctrlname='tabRemark' /&gt;&lt;wnd ctrlname='GroupControl3' /&gt;&lt;wnd ctrlname='EXT_RMK' /&gt;&lt;ctrl role='editable text' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='OmsWoMgt' /&gt;&lt;wnd ctrlname='Panel1' /&gt;&lt;wnd ctrlname='tcMain' /&gt;&lt;wnd ctrlname='tpHeader' /&gt;&lt;wnd ctrlname='PanelControl3' /&gt;&lt;wnd ctrlname='sccHeaderMain' /&gt;&lt;wnd ctrlname='GroupControl1' /&gt;&lt;wnd ctrlname='tabContainer' /&gt;&lt;wnd ctrlname='tabRemark' /&gt;&lt;wnd ctrlname='GroupControl3' /&gt;&lt;wnd ctrlname='EXT_RMK' /&gt;&lt;ctrl role='editable text' automationid='' /&gt;" Guid="728d0594-5c94-4689-b4bf-18c2b9009fed" ScopeSelectorArgument="&lt;wnd app='elsa.sc.app.exe' ctrlname='MainForm' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f320ee7387ed1a6851af36eece835150.png" xmlns="">0PmX4wnHPTUqJI8vrL2nZjA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

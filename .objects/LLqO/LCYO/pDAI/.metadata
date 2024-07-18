@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Work Order Management",
+  "Type": "Screen",
+  "Id": "pDAIWLF6aUW1iD8MMqXlbw",
+  "Reference": "KQr0T5IrbUeImLtzJb0ohQ/pDAIWLF6aUW1iD8MMqXlbw",
+  "ParentRef": "KQr0T5IrbUeImLtzJb0ohQ/LCYOmv35xUmgi-MqZ9-XgQ",
+  "Created": "2024-06-24T04:15:12.7540604Z",
+  "Updated": "2024-06-24T04:15:12.7540604Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
